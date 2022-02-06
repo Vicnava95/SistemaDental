@@ -1,0 +1,11 @@
+{
+    "editor.find.cursorMoveOnType": false,
+    "editor.multiCursorMergeOverlapping": false,
+    "editor.suggest.localityBonus": true,
+    "terminal.integrated.altClickMovesCursor": false,
+    "workbench.colorCustomizations": {
+    
+    },
+    "editor.columnSelection": false,
+    "editor.stickyTabStops": true
+}
