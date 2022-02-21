@@ -236,7 +236,7 @@
                 <li class="nav-item">
                     <a data-toggle="collapse" href="#base2">
                         <i class="fas fa-file-medical-alt"></i>
-                        <p>Examenes</p>
+                        <p>Exámenes</p>
                         <span class="caret"></span>
                     </a>
                     <div class="collapse" id="base2">
@@ -261,7 +261,7 @@
                 <li class="nav-item">
                     <a href=" {{ route('examenesGenerales.index') }}">
                         <i class="fas fa-file-medical-alt"></i>
-                        <p>Examenes</p>
+                        <p>Exámenes</p>
                     </a>
                 </li>
                 @break
@@ -269,7 +269,7 @@
                 <li class="nav-item">
                     <a href="{{ route('examenesDentales.index') }} ">
                         <i class="fas fa-file-medical-alt"></i>
-                        <p>Examenes</p>
+                        <p>Exámenes</p>
                     </a>
                 </li>
                 @endswitch
